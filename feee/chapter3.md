@@ -34,3 +34,21 @@ growth model based on BHLHI
 - Reproductive efficiency as 0.22 that also includes energetic investment for reproductive behaviror.
 
 ## 3-3
+
+## 3-4
+- LHparam correlate with asymptotic siez
+  - Growth coeff, tmat, sizemat, reprodinv, and longevity
+- **really? Consider determinate and indeterminate**
+- "This implies that knowing only asymptotic size W_inf and ghte growth rate coefficient A, all other parameters can be estimated"
+- Three aspects of an answer to the invariant varying thru the species.
+   - semantic
+   - empiric
+   - theoretic
+- LHI is not a statement that LH do not vary between species. but rather that the variation is random and unexplained, at least according to our current level of understanding.
+- Defense
+  - Fish with defense, investment, cryptic, hiding, causing the lH to vary.
+
+## 3-5
+ - BHLHI may seems a good idea.
+ - slow-fast continuum, determinate-indeterminate continuum is not solved yet.
+ - Sacrifice existent, but overall description seems okay
